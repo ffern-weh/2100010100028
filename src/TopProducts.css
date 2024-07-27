@@ -1,0 +1,27 @@
+.top-products {
+    margin-top: 20px;
+  }
+  
+  .top-products h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .top-products input {
+    margin-bottom: 20px;
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  .top-products ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .top-products li {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
